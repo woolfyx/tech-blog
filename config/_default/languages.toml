@@ -1,13 +1,13 @@
 # Uncomment this file to enable multilanguage site support
 
-[fr]
-languageName = "Français"
-languagedirection = "ltr"
+#[fr]
+#languageName = "Français"
+#languagedirection = "ltr"
 #title = "Example Site"
-weight = 1
+#weight = 1
 
-[en]
-languageName = "English"
-languagedirection = "ltr"
+#[en]
+#languageName = "English"
+#languagedirection = "ltr"
 #title = "Example Site"
-weight = 2
+#weight = 2
