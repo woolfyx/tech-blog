@@ -1,10 +1,10 @@
 ---
-title: Security
-description:
+title: Network
+description: 
 image: cover.jpg
 
 # Badge style
 style:
-    background: "#D2386C"
+    background: "#0072B5"
     color: "#fff"
 ---
