@@ -1,6 +1,6 @@
 ---
 title: Decrypt PDF file
-description: Using QPDF to remove the owner password of a PDF file
+description: Using QPDF to remove the restrictions of your PDF files
 hidden: false
 slug: decrypt-pdf
 date: 2022-09-15 00:00:00+0000
