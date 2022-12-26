@@ -14,3 +14,5 @@ tags:
 ---
 
 PiHole config with IPv6 & DNSSEC
+
+Configure Pi-Hole 
