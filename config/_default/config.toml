@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://blog.woolfyx.tech"
+baseurl = "https://woolfyx.tech"
 languageCode = "en-us"
 paginate = 5
 title = "Woolfyx Tech Blog"
